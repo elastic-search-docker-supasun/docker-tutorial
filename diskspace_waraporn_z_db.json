@@ -1,0 +1,37 @@
+{ '/dev': { free: 32969064, size: 32969064, used: 0, percent: 0 },
+     '/run': 
+      { free: 6003052,
+        size: 6597516,
+        used: 594464,
+        percent: 0.09010421498030471 },
+     '/': 
+      { free: 38562688,
+        size: 50442940,
+        used: 11880252,
+        percent: 0.23551862758197678 },
+     '/dev/shm': 
+      { free: 32987060,
+        size: 32987576,
+        used: 516,
+        percent: 0.000015642252707504184 },
+     '/run/lock': { free: 5120, size: 5120, used: 0, percent: 0 },
+     '/sys/fs/cgroup': { free: 32987576, size: 32987576, used: 0, percent: 0 },
+     '/run/cgmanager/fs': { free: 100, size: 100, used: 0, percent: 0 },
+     '/backup': 
+      { free: 79854448,
+        size: 206293688,
+        used: 126439240,
+        percent: 0.6129089126566005 },
+     '/var/lib/docker/aufs/mnt/85c7ebda777e56b86613570ca93930bc33729a3cf042a97dde69a6ded100360c': 
+      { free: 38562688,
+        size: 50442940,
+        used: 11880252,
+        percent: 0.23551862758197678 },
+     '/var/lib/docker/aufs/mnt/596bc7864dc93c1570bf1a401633caa5e8b02c5cc924b28fafa78e8c77b00432': 
+      { free: 38562688,
+        size: 50442940,
+        used: 11880252,
+        percent: 0.23551862758197678 },
+     '/var/lib/docker/containers/06b18b71377cad42360bbed41f9f7e636aac094fc90b0136d780e9a3fbd80773/shm': { free: 65532, size: 65536, used: 4, percent: 0.00006103515625 },
+     '/var/lib/docker/containers/62a84ddfb748555d4a6748730ce3fb79635cd52a953a4939b81f693f61826701/shm': { free: 65536, size: 65536, used: 0, percent: 0 },
+     '/run/user/0': { free: 6597516, size: 6597516, used: 0, percent: 0 } } }
